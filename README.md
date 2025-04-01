@@ -1,6 +1,6 @@
-# Assignment 7: Author Identification
+# Author Identification
 
-This assignment takes in a text file, and compares it to the text of other authors. It then reveals which text files from other authors are closest to it. The command-line options for this program are listed below.
+This program takes in a text file, and compares it to the text of other authors. It then reveals which text files from other authors are closest to it. The command-line options for this program are listed below.
 
 ## How to build the program: 
 To build the program, `$ make` or `$ make all`. This builds the identify programs. Optionally, typing `$ make identify` builds the program individually.
